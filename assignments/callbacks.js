@@ -38,7 +38,7 @@ const items = ['Pencil', 'Notebook', 'yo-yo', 'Gum'];
   console.log(test2); // "this Pencil is worth a million dollars!"
 */
 
-
+/*
 function getLength(arr, cb) {
   // getLength passes the length of the array into the callback.
   cb(arr.length)
@@ -79,7 +79,7 @@ function contains(item, list, cb) {
 };
 contains(items,  "Gum", (gotIt) => {
   console.log(gotIt)
-});
+});*/
 
 
 /* STRETCH PROBLEM */
